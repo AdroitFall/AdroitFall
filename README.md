@@ -16,10 +16,8 @@
 ```kotlin
 val me = Developer(
     pronouns = "he/him",
-    interests = listOf("Backend", "Tooling", "Automation", "Open Source"),
-    techstack = listOf("Java", "Kotlin", "Go", "SQL"),
+    interests = listOf("Backend", "Tooling", "Open Source"),
     tools = listOf("Git", "Docker", "Linux", "JetBrains"),
-    architecture = listOf("OOP", "Clean Architecture", "MVC", "Event-driven"),
     currentFocus = "building useful projects and improving every day",
     specialMove = "turning coffee into commits ☕⚡"
 )
