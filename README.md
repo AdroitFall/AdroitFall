@@ -22,5 +22,3 @@ val me = Developer(
     specialMove = "turning coffee into commits ☕⚡"
 )
 ```
-
-<em><b>I love building and connecting with people</b>, so if you want to collaborate, feel free to reach out.</em>
