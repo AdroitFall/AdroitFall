@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Passionate developer who enjoys building things and learning by doing.<br>
+    Developer who enjoys building things and learning by doing.<br>
     Always curious about software engineering, clean architecture, and practical tooling.
   </em>
 </p>
