@@ -19,7 +19,8 @@ val me = Developer(
     techstack = listOf("Java", "Kotlin", "Go", "SQL"),
     tools = listOf("Git", "Docker", "Linux", "JetBrains"),
     architecture = listOf("OOP", "Clean Architecture", "MVC", "Event-driven"),
-    currentFocus = "building useful projects and improving every day"
+    currentFocus = "building useful projects and improving every day",
+    specialMove = "turning coffee into commits ☕⚡"
 )
 ```
 
