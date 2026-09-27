@@ -9,7 +9,7 @@
 </p>
 
 [![Follow @AdroitFall](https://img.shields.io/github/followers/AdroitFall?label=follow&style=social)](https://github.com/AdroitFall)
-[![Static Badge](https://img.shields.io/badge/AdroitFall?style=social&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1164536381897461861)
+[![Discord: AdroitFall](https://img.shields.io/badge/Discord-AdroitFall-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1164536381897461861)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20"> A little more about me...
 
